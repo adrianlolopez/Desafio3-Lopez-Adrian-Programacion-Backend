@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "name": "Macbook Air Pro",
+      "price": 1500000,
+      "category": "Electrónica"
+    },
+    {
+      "id": "2",
+      "name": "Remera Oversize Nike",
+      "price": 60000,
+      "category": "Ropa"
+    },
+    {
+      "id": "3",
+      "name": "Silla de Madera",
+      "price": 5.99,
+      "category": "Hogar"
+    },
+    {
+      "id": "4",
+      "name": "Lavadora Samsung",
+      "price": 2500000,
+      "category": "Electrodomésticos"
+    }
+  ]
+  
